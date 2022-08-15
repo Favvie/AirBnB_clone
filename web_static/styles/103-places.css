@@ -108,9 +108,6 @@
 .pet_icon {
 	width: 30px;
 	height: 30px;
-	/* background-image: url("../images/pet_icon.png"); */
-	/* background-repeat: no-repeat; */
-	/* background-size: cover; */
 }
 
 .pet_icon img,
@@ -121,17 +118,11 @@
 .wifi_icon {
 	width: 30px;
 	height: 30px;
-	/* background-image: url("../images/wifi_icon.png");
-	background-repeat: no-repeat;
-	background-size: cover; */
 }
 
 .tv_icon {
 	width: 30px;
 	height: 30px;
-	/* background-image: url("../images/tv_icon.png");
-	background-repeat: no-repeat; */
-	/* background-size: cover; */
 }
 
 .places .amenities ul {

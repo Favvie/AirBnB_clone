@@ -89,8 +89,6 @@ ul {
 	.filters {
 		width: 90%;
 		margin: auto;
-		/* justify-content: space-around; */
-		/* flex-direction: column; */
 	}
 	.filters .locations,
 	.filters .amenities {
