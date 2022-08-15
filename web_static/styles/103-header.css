@@ -1,0 +1,18 @@
+header {
+	height: 70px;
+	width: 100%;
+	background-color: white;
+	border-bottom: 1px #cccccc solid;
+}
+
+header div {
+	margin-left: 20px;
+	width: 130px;
+	display: flex;
+	align-items: center;
+	height: 100%;
+}
+
+header .logo img {
+	width: 100%;
+}
